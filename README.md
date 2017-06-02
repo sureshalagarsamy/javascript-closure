@@ -1,0 +1,2 @@
+# javascript-closure
+JavaScript closure
